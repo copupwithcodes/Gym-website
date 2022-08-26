@@ -1,5 +1,7 @@
 export const programsData = [
+  
   {
+    
     image: (
       <svg
         width="16"
